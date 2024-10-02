@@ -25,7 +25,7 @@ cd File-Encryption-Project
 ```
 2. Run the application:
 ```bash
-python gui.py
+python aes-file-encryption2.0v.py
 ```
 3. Use the GUI to:
    - Select a file for encryption or decryption.
