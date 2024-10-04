@@ -33,8 +33,7 @@ python aes-file-encryption2.0v.py
    - Encrypt the selected file or decrypt it back to its original form.
 
 ## Files
-- `custom_aes.py`: Contains the AES encryption and decryption functionality, including key generation.
-- `gui.py`: Manages the graphical user interface and user interactions.
+- `aes-file-encryption2.0v.py`: Contains the AES encryption and decryption functionality, including key generation. And it Manages the graphical user interface and user interactions.
 - `requirements.txt`: Lists all required dependencies to run the project.
 
 ## Dependencies
